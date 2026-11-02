@@ -1,0 +1,123 @@
+# Biyet Event Privacy Policy
+
+**Last updated: November 1, 2026**
+
+## 1. Introduction
+
+Biyet Event is a mobile app for finding events, buying tickets, booking transportation and connecting with other guests at events. It is operated by KENUTEK LLC ("we," "us," "our").
+
+This Privacy Policy explains what information we collect when you use the Biyet Event app and related services (the "Service"), how we use and share it, and the choices you have. It applies to every type of account: customers, event promoters, transportation companies, drivers and event staff.
+
+By using the Service you agree to this policy. If you do not agree, please do not use the Service.
+
+## 2. Information we collect
+
+We collect only what we need to run the Service. Most of it you give us directly; some is collected when you use the app.
+
+| Category | What it includes | Where it comes from |
+| --- | --- | --- |
+| Account | Name, email address, username, password (stored securely by Firebase Authentication, never visible to us), country, city and state | You, at sign-up and in your profile |
+| Tickets and orders | Events you buy tickets for, ticket type, quantity, price, ticket codes and QR codes, order history, check-in status, ticket transfers and resale listings | Your purchases and activity |
+| Wallet and points | Wallet balance, points balance, points earned and used, referral codes | Your purchases and activity |
+| Payments | Amount, payment method used (wallet, card or both) and payment status. Card details are entered in Stripe's secure form; we never see or store your full card number | You and Stripe |
+| Location | Your approximate or precise location, to show events and transportation near you | Your device, only with your permission |
+| Photos and camera | Photos or videos you upload (event media, profile or social room photo); camera access to scan ticket QR codes | Your device, only with your permission |
+| Social room profile | Display name, photo, drinks, music tastes, vibes and interests you choose to share, and your matches with other guests at an event | You, only if you join an event's social room |
+| Promoter and business accounts | Business or team name, address, city, state, ZIP code, event details, staff names and roles, items for sale | Promoters and transportation companies |
+| Transportation | Trips booked, pickup and drop-off locations, driver assignments | You, transportation companies and drivers |
+| Support | Messages and feedback you send us | You |
+| Device and technical | Device type, operating system, app version, and error information needed to keep the app working | Your device |
+
+We do not collect your contacts, and we do not use advertising trackers.
+
+## 3. How we use your information
+
+We use your information to:
+
+- **Run your account:** create it, verify it, keep it secure and let you sign in.
+- **Sell and deliver tickets:** process orders, issue QR tickets, check you in at the door, and handle transfers and resales.
+- **Process payments:** charge your wallet or card, apply points, and keep records of each transaction.
+- **Show what's near you:** list events, venues and transportation in your area.
+- **Run event features:** the social room, items for sale at events, schedules and staff check-in.
+- **Communicate with you:** send order confirmations, ticket and account notices, and replies to your support requests.
+- **Keep the Service safe:** prevent fraud, duplicate ticket use and abuse, and enforce our terms.
+- **Improve the Service:** fix errors and understand which features are used.
+- **Meet legal obligations:** tax, accounting and lawful requests.
+
+We send marketing messages only if you agree to receive them, and you can stop them at any time.
+
+## 4. How we share your information
+
+We do not sell your personal information. We share it only in these cases:
+
+- **Event promoters:** when you buy a ticket, the promoter of that event receives your name, email, ticket type, quantity and check-in status, so they can run the event and admit you.
+- **Transportation companies and drivers:** when you book a trip, they receive your name and trip details so they can provide it.
+- **Other guests:** if you join an event's social room, other guests at that event can see the profile you chose to share there. Resale listings you post are visible to other users.
+- **Service providers** that run the Service for us and may use your data only for that:
+  - [Stripe](https://stripe.com/privacy), for card payments
+  - [Google Firebase and Google Cloud](https://policies.google.com/privacy), for sign-in, data storage, file storage and server functions
+  - [Google Maps Platform](https://policies.google.com/privacy), for address search and location features
+- **The law:** when required by law, court order or a valid government request, or to protect the rights, safety or property of our users, the public or us.
+- **Business transfers:** if KENUTEK LLC is involved in a merger, acquisition or sale of assets, your information may be transferred. We will notify you before it becomes subject to a different privacy policy.
+- **With your consent:** in any other case, only when you agree.
+
+We may share aggregated or de-identified data that cannot reasonably identify you, for example the number of tickets sold for an event.
+
+## 5. Payments, wallet and points
+
+Card payments are processed by Stripe. You enter your card in Stripe's secure payment form, and Stripe handles it under its own [privacy policy](https://stripe.com/privacy). We receive only a payment confirmation, the amount and a customer reference, never your full card number or security code.
+
+Your wallet balance, points balance and transaction history are stored with your account. We keep payment and order records for as long as tax and financial laws require, even after an account is deleted.
+
+Prices may be shown in your local currency. Conversion rates and service fees are applied at checkout and recorded with your order.
+
+## 6. Security, retention and account deletion
+
+**Security.** Data is encrypted in transit (TLS) and stored on Google Cloud, which encrypts it at rest. Access to personal information is limited to the people and systems that need it, and payment keys are kept in a secure secret store, never in the app. No system is perfectly secure, so we cannot guarantee absolute security.
+
+**How long we keep data.**
+
+| Data | Kept for |
+| --- | --- |
+| Account and profile | While your account is active, then deleted after you delete your account |
+| Tickets, orders and payment records | As long as tax and financial laws require (usually 7 years) |
+| Social room profile | Removed when the event's social room closes or when you delete your account |
+| Support messages | Up to 2 years |
+| Technical and error data | Up to 12 months |
+
+**Deleting your account.** In the app, open the menu and tap **Delete account**. Your account is closed right away and your personal information is deleted, except records we must keep by law (such as payment and order records). You can also ask us to delete your data by emailing <info@biyet.com>.
+
+## 7. Your rights and choices
+
+**Your choices in the app.**
+
+- **Location:** turn it off in your phone's settings. You can still browse events by city.
+- **Camera and photos:** allow or deny access in your phone's settings. Scanning tickets and uploading photos need them.
+- **Social room:** joining is optional, and you can leave at any time.
+- **Marketing messages:** you can unsubscribe at any time.
+
+**Your rights.** You can ask us to:
+
+- give you a copy of your personal information
+- correct information that is wrong
+- delete your information, except what we must keep by law
+
+Email <info@biyet.com>. We answer within 30 days and may need to confirm your identity first.
+
+**Age requirement.** You must be at least 18 years old to use Biyet Event. Some events and items, such as alcohol, require you to be 21 or older and may require ID at the event. We do not knowingly collect information from anyone under 18. If we learn that we have, we will delete it and close the account.
+
+**California and other US states.** If you live in California or another US state with a privacy law, you have the right to know what personal information we collect and how we use and share it, to delete it, to correct it, and not to be treated differently for using these rights. We do not sell or share your personal information for targeted advertising.
+
+**European Union, UK and similar laws.** If these laws apply to you, you also have the right to restrict or object to how we use your information, to receive it in a portable format, to withdraw consent at any time, and to complain to your local data protection authority. We use your information to perform our contract with you (selling tickets and running your account), with your consent (location, photos, marketing), for our legitimate interests (security and improving the Service), and to meet legal obligations.
+
+## 8. International transfers, changes and contact
+
+**International transfers.** We are based in the United States, and your information is stored on Google Cloud servers in the United States. If you use the Service from another country, such as Haiti, your information is transferred to and processed in the United States, where privacy laws may differ from those in your country.
+
+**Changes to this policy.** We may update this policy. We will post the new version here and change the date at the top. If a change is significant, we will also notify you in the app or by email. Continuing to use the Service after a change means you accept the updated policy.
+
+**Contact us.**
+
+KENUTEK LLC<br>
+Email: <info@biyet.com><br>
+Phone: +1 317 439 8457
